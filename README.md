@@ -1,9 +1,16 @@
 # JOOLDI Smart Urban Locker 🚀
 
+**JOOLDI** is an infrastructure ecosystem designed to optimize high-demand urban spaces. The brand name is a tribute to its founder, Joaquín Olivieri Díaz, and reflects a commitment to sustainable urban engineering. This repository contains the technical specifications, structural design, and management logic for our smart storage system tailored for urban parking environments. 🏙️
+
 ## Project Description 🛠️
 High-density modular infrastructure for the secure storage of urban micromobility, optimized for bicycles and electric scooters with high-security mechanical access systems. 🛡️
 
-**JOOLDI** (Joaquín Olivieri Díaz) is an infrastructure ecosystem designed to optimize high-demand urban spaces. This repository contains the technical specifications, structural design, and management logic for the smart storage system tailored for urban parking environments. 🏙️
+## User Experience (JOOLDI App) 📱
+The **JOOLDI** app acts as the ecosystem's control center, allowing users to:
+- **Smart Localization**: Real-time discovery of the nearest storage station or charging point. 📍
+- **Availability**: Check real-time occupancy of lockers and bays before arriving. 🟢
+- **Access Management**: View the exact location of the assigned locker and receive security notifications. 🔐
+
 
 ## User Experience (JOOLDI App) 📱
 The **JOOLDI** app acts as the ecosystem's control center, allowing users to:
